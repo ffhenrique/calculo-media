@@ -17,7 +17,7 @@ function calcular () {
         let notaMedia = 14;
         resultado = ((notaMedia - (p1 + atividadeAvaliativa)).toFixed(1));
         if (resultado <= 8) {
-            media.innerHTML = `O aluno precisa tirar ${resultado} na segunda P2 para atingir a media de 7`;
+            media.innerHTML = `O aluno precisa tirar ${resultado} na P2 para atingir a media de 7`;
         } else {
             media.innerHTML = 'O aluno esta de recuperação!'
         }
