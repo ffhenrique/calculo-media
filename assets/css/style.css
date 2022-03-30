@@ -33,7 +33,7 @@ body {
 .container input {
     margin-bottom: 20px;
     padding: 8px;
-    width: 50%;
+    width: 65%;
     
 }
 
@@ -44,7 +44,7 @@ body {
 .container button {
     margin-bottom: 20px;
     padding: 10px;
-    width: 40%;
+    width: 55%;
     cursor: pointer;
     border: none;
     border-radius: 5px;
